@@ -17,7 +17,7 @@ This project implements various numerical methods to find the roots of a given f
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Mastean12/numerical_Analysis.git
+    git clone https://github.com/Mastean12/Numerical_Analysis.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -70,7 +70,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Contact
 Your Name - your-marigastephen588@gmail.com
 
-Project Link: https://github.com/Mastean12/numerical_Analysis
+Project Link: https://github.com/Mastean12/Numerical_Analysis
 
 
 ### Additional Notes:
